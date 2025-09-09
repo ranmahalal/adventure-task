@@ -18,7 +18,7 @@ Clone the repository and navigate into the project directory:
 
 ```bash
 git clone <repository-url>
-cd adventure
+cd adventure-task
 ```
 
 ### 2. Install Dependencies
@@ -88,7 +88,6 @@ This command will:
 
 - **Frontend Application**: http://localhost:3000
 - **Backend API**: http://localhost:5000
-- **API Documentation**: http://localhost:5000/api/exercises/generate
 
 
 ## Next Steps
