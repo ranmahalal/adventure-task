@@ -21,6 +21,7 @@ git clone <repository-url>
 cd adventure-task
 ```
 
+
 ### 2. Install Dependencies
 
 Install frontend dependencies:
@@ -33,6 +34,13 @@ Install backend dependencies:
 cd backend
 npm install
 cd ..
+```
+More dependencies:
+```bash
+npm install nodemon --save-dev
+npm install concurrently --save-dev
+cd backend 
+npm install cors
 ```
 
 Install development dependencies for concurrent execution:
