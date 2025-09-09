@@ -122,7 +122,6 @@ const openai = new OpenAI({
 
 ### Optimization Strategies
 
-- **Lazy Loading**: Components load only when needed
 - **Image Caching**: Background images cached for 24 hours
 - **Local Storage**: Efficient data persistence without server calls
 - **Retry Logic**: Prevents unnecessary API calls on temporary failures
